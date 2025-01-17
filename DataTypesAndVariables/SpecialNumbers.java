@@ -20,7 +20,7 @@ public class SpecialNumbers {
             }else {
                 System.out.printf("%d -> False%n",i);
             }
-            
+
         }
     }
 }
