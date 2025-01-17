@@ -7,17 +7,20 @@ public class SpecialNumbers {
         Scanner scanner = new Scanner(System.in);
         int n = Integer.parseInt(scanner.nextLine());
 
-
         for (int i = 1; i <= n; i++) {
-            if (i==5 || i==7 || i==11){
+            int sum = i;
+            if (i>=10) {
+                int a = i%10;
+                int b = i / 10;
+                sum = a+b;
+            }
+            if (sum==5 || sum==7 || sum==11){
                 System.out.printf("%d -> True%n",i);
 
             }else {
                 System.out.printf("%d -> False%n",i);
             }
-
-
-
+            
         }
     }
 }
