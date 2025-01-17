@@ -1,5 +1,6 @@
 package DataTypesAndVariables;
 
+import java.math.BigDecimal;
 import java.util.Scanner;
 
 public class ExactSumOfRealNumbers3_3 {
@@ -7,21 +8,13 @@ public class ExactSumOfRealNumbers3_3 {
         Scanner scanner = new Scanner(System.in);
 
         int input = Integer.parseInt(scanner.nextLine());
-        double count = 0.00;
+        BigDecimal count = new BigDecimal(0);
 
         for (int i = 0; i < input; i++) {
-            double countTo = Double.parseDouble(scanner.nextLine());
-            count+=countTo;
+            BigDecimal countTo = new BigDecimal(scanner.nextLine());
+            count=count.add(countTo);
         }
 
-
-
         System.out.println(count);
-
-
-
-
-
-
     }
 }
