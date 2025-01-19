@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/RefactorSpecialNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariables/RefactorVolumeOfPyramid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/InteerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/SumOfChars.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +39,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
+    "Application.InteerOperations.executor": "Run",
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
+    "Application.SumDigits.executor": "Run",
+    "Application.SumOfChars.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
