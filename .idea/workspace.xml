@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/Snowballs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/SpiceMustFlow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +41,7 @@
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.Snowballs.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
+    "Application.SpiceMustFlow.executor": "Run",
     "Application.SumDigits.executor": "Run",
     "Application.SumOfChars.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -77,9 +78,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/DataTypesAndVariablesExercise/Snowballs.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/DataTypesAndVariablesExercise/SpiceMustFlow.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
