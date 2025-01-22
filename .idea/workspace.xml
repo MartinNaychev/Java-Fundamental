@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/PrintPartsOfTheASCIITable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/TriplesOfLatinLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/BeerKegs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/More/DataTypeFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/PokeMon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataTypesAndVariablesExercise/WaterOverflow.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,9 +39,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BeerKegs.executor": "Run",
+    "Application.DataTypeFinder.executor": "Run",
     "Application.Elevator.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
     "Application.InteerOperations.executor": "Run",
+    "Application.PokeMon.executor": "Run",
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.Snowballs.executor": "Run",
@@ -49,6 +53,7 @@
     "Application.SumDigits.executor": "Run",
     "Application.SumOfChars.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
+    "Application.WaterOverflow.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
