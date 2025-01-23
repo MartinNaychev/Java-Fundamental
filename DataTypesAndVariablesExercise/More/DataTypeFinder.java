@@ -14,12 +14,11 @@ public class DataTypeFinder {
             } else if (isDouble(input)) {
                 System.out.println(Double.parseDouble(input) + " is floating point type");
             } else if (isBoolean(input)) {
-                System.out.println(Boolean.parseBoolean(input) + " is boolean type");
+                System.out.println(input +  " is boolean type");
             } else if (input.length() == 1) {
                 System.out.println(input.charAt(0) + " is character type");
             } else {
                 if (!input.isEmpty()) {
-
                     System.out.println(input + " is string type");
                 }
             }
