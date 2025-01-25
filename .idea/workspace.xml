@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/DayOfWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/PrintNumbersInReverseOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/ReverseArrayOfStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Arrays/SumEvenNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Arrays/EvenAndOddSubtraction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +39,7 @@
     "Application.DataTypeFinder.executor": "Run",
     "Application.DayOfWeek.executor": "Run",
     "Application.Elevator.executor": "Run",
+    "Application.EvenAndOddSubtraction.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
     "Application.InteerOperations.executor": "Run",
     "Application.PokeMon.executor": "Run",
@@ -95,6 +92,11 @@
           <url>file://$PROJECT_DIR$/DataTypesAndVariablesExercise/Elevator.java</url>
           <line>9</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/ReverseArrayOfStrings.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
