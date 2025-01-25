@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Arrays/EqualArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysExercise/Train.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Application.SumDigits.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOfChars.executor": "Run",
+    "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
     "Application.WaterOverflow.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -99,6 +100,11 @@
           <url>file://$PROJECT_DIR$/Arrays/ReverseArrayOfStrings.java</url>
           <line>12</line>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArraysExercise/Train.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
