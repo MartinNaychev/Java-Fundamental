@@ -6,12 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/SpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/SpecialNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -20,16 +26,41 @@
   &quot;associatedIndex&quot;: 7
 }</component>
   <component name="ProjectId" id="2rio6tNSJd6aQKA43906p2olwYk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BeerKegs.executor": "Run",
+    "Application.CommonElements.executor": "Run",
+    "Application.DataTypeFinder.executor": "Run",
+    "Application.DayOfWeek.executor": "Run",
+    "Application.Elevator.executor": "Run",
+    "Application.EqualArrays.executor": "Run",
+    "Application.EvenAndOddSubtraction.executor": "Run",
+    "Application.ExactSumOfRealNumbers3_3.executor": "Run",
+    "Application.InteerOperations.executor": "Run",
+    "Application.PokeMon.executor": "Run",
+    "Application.PrintNumbersInReverseOrder.executor": "Run",
+    "Application.PrintPartsOfTheASCIITable.executor": "Run",
+    "Application.RefactorSpecialNumbers.executor": "Run",
+    "Application.ReverseArrayOfStrings.executor": "Run",
+    "Application.Snowballs.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
+    "Application.SpiceMustFlow.executor": "Run",
+    "Application.SumDigits.executor": "Run",
+    "Application.SumEvenNumbers.executor": "Run",
+    "Application.SumOfChars.executor": "Run",
+    "Application.Train.executor": "Run",
+    "Application.TriplesOfLatinLetters.executor": "Run",
+    "Application.WaterOverflow.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<unknown>",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Fundamental Java"
@@ -56,5 +87,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/DataTypesAndVariablesExercise/Elevator.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Arrays/ReverseArrayOfStrings.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArraysExercise/Train.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
