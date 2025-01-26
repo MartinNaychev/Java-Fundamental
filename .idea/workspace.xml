@@ -36,6 +36,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.BeerKegs.executor": "Run",
+    "Application.CommonElements.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
     "Application.DayOfWeek.executor": "Run",
     "Application.Elevator.executor": "Run",
@@ -59,7 +60,7 @@
     "Application.WaterOverflow.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "<unknown>",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Fundamental Java"
