@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysExercise/ArrayRotation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +35,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.ArrayRotation.executor": "Debug",
     "Application.BeerKegs.executor": "Run",
     "Application.CommonElements.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
@@ -58,9 +59,11 @@
     "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
     "Application.WaterOverflow.executor": "Run",
+    "Application.ZigZag.executor": "Run",
+    "Application.ZigZagArrays.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "<unknown>",
+    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Fundamental Java"
@@ -106,6 +109,15 @@
           <line>12</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArraysExercise/ArrayRotation.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NumberFormatException" package="java.lang" />
+          <option name="timeStamp" value="13" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
