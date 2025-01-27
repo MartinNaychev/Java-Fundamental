@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArraysExercise/TopIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArraysExercise/EqualSums.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,6 +43,7 @@
     "Application.DayOfWeek.executor": "Run",
     "Application.Elevator.executor": "Run",
     "Application.EqualArrays.executor": "Run",
+    "Application.EqualSums.executor": "Debug",
     "Application.EvenAndOddSubtraction.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
     "Application.InteerOperations.executor": "Run",
@@ -121,6 +122,11 @@
           <url>file://$PROJECT_DIR$/ArraysExercise/TopIntegers.java</url>
           <line>15</line>
           <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArraysExercise/EqualSums.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
