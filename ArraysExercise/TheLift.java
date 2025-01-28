@@ -11,7 +11,7 @@ public class TheLift {
         int[] array = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToInt(Integer::parseInt)
                 .toArray();
-        
+
         for (int position = 0; position < array.length; position++) {
             if (array[position] == 0) {
                 if (people >= 4) {
@@ -22,7 +22,7 @@ public class TheLift {
                     people = 0;
                 }
             } else {
-                if (people >= 4) {
+                if (people >= 3) {
                     int freeSpace = 4 - array[position];
                     people -= freeSpace;
                     array[position] += freeSpace;
