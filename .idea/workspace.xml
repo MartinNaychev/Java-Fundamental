@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArraysExercise/TheLift.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArraysExercise/TheLift.java" beforeDir="false" afterPath="$PROJECT_DIR$/ArraysExercise/TheLift.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +62,7 @@
     "Application.SumDigits.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOfChars.executor": "Run",
-    "Application.TheLift.executor": "Debug",
+    "Application.TheLift.executor": "Run",
     "Application.TopIntegers.executor": "Run",
     "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
@@ -148,11 +148,6 @@
           <url>file://$PROJECT_DIR$/ArraysExercise/ArrayModifier.java</url>
           <line>16</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ArraysExercise/TheLift.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="26" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
