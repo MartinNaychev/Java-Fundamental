@@ -8,45 +8,43 @@ public class TheLift {
         Scanner scanner = new Scanner(System.in);
 
         int people = Integer.parseInt(scanner.nextLine());
+
         int[] array = Arrays.stream(scanner.nextLine().split(" "))
                 .mapToInt(Integer::parseInt)
                 .toArray();
 
-        for (int position = 0; position < array.length; position++) {
-            if (array[position] == 0) {
-                if (people >= 4) {
-                    array[position] = 4;
-                    people -= 4;
-                } else if (people > 0) {
-                    array[position] = people;
-                    people = 0;
-                }
-            } else {
-                if (people >= 3) {
-                    int freeSpace = 4 - array[position];
-                    people -= freeSpace;
-                    array[position] += freeSpace;
-                } else {
-                    array[position] += people;
-                    people = 0;
-                }
-            }
+        boolean availableSpace = true;
 
+        for (int cabin = 0; cabin <= array.length - 1; cabin++) {
+            int currentCabin = array[cabin];
+
+
+            while (currentCabin < 4 && people > 0) {
+                currentCabin++;
+                people--;
+            }
+            array[cabin] = currentCabin;
+
+            if (currentCabin == 4) {
+                availableSpace = false;
+            } else {
+                availableSpace = true;
+            }
         }
 
-        if (people == 0 && array[array.length - 1] < 4) {
+        if (availableSpace) {
             System.out.println("The lift has empty spots!");
-            for (int wagons : array) {
-                System.out.print(wagons + " ");
+            for (int cabin : array) {
+                System.out.print(cabin + " ");
             }
-        } else if (people > 0) {
-            System.out.printf("There isn't enough space! %d people in a queue!%n", people);
-            for (int wagons : array) {
-                System.out.print(wagons + " ");
+        } else if (people == 0) {
+            for (int cabin : array) {
+                System.out.print(cabin + " ");
             }
         } else {
-            for (int wagons : array) {
-                System.out.print(wagons + " ");
+            System.out.printf("There isn't enough space! %s people in a queue!%n", people);
+            for (int cabin : array) {
+                System.out.print(cabin + " ");
             }
         }
     }
