@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ArraysExercise/ArrayModifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,49 +31,49 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ArrayModifier.executor": "Debug",
-    "Application.ArrayRotation.executor": "Run",
-    "Application.BeerKegs.executor": "Run",
-    "Application.CommonElements.executor": "Run",
-    "Application.CondenseArrayToNumber.executor": "Run",
-    "Application.DataTypeFinder.executor": "Run",
-    "Application.DayOfWeek.executor": "Run",
-    "Application.Demo.executor": "Debug",
-    "Application.Elevator.executor": "Run",
-    "Application.EqualArrays.executor": "Run",
-    "Application.EqualSums.executor": "Debug",
-    "Application.EvenAndOddSubtraction.executor": "Run",
-    "Application.ExactSumOfRealNumbers3_3.executor": "Run",
-    "Application.InteerOperations.executor": "Run",
-    "Application.MagicSum.executor": "Run",
-    "Application.PokeMon.executor": "Run",
-    "Application.PrintNumbersInReverseOrder.executor": "Run",
-    "Application.PrintPartsOfTheASCIITable.executor": "Run",
-    "Application.RefactorSpecialNumbers.executor": "Run",
-    "Application.ReverseArrayOfStrings.executor": "Run",
-    "Application.Snowballs.executor": "Run",
-    "Application.SpecialNumbers.executor": "Run",
-    "Application.SpiceMustFlow.executor": "Run",
-    "Application.SumDigits.executor": "Run",
-    "Application.SumEvenNumbers.executor": "Run",
-    "Application.SumOfChars.executor": "Run",
-    "Application.TopIntegers.executor": "Run",
-    "Application.Train.executor": "Run",
-    "Application.TriplesOfLatinLetters.executor": "Run",
-    "Application.WaterOverflow.executor": "Run",
-    "Application.ZigZag.executor": "Run",
-    "Application.ZigZagArrays.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Repos/Java-Fundamental",
-    "settings.editor.selected.configurable": "preferences.updates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ArrayModifier.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.ArrayRotation.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BeerKegs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CommonElements.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CondenseArrayToNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DataTypeFinder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DayOfWeek.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Demo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Elevator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualSums.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.EvenAndOddSubtraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExactSumOfRealNumbers3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InteerOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MagicSum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PokeMon.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintNumbersInReverseOrder.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PrintPartsOfTheASCIITable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RefactorSpecialNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReverseArrayOfStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Snowballs.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpecialNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SpiceMustFlow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumDigits.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumEvenNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SumOfChars.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TopIntegers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Train.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TriplesOfLatinLetters.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WaterOverflow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigZag.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZigZagArrays.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/badjo/IdeaProjects/Repos/Java-Fundamental&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.updates&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -141,11 +138,6 @@
           <url>file://$PROJECT_DIR$/ArraysExercise/MagicSum.java</url>
           <line>15</line>
           <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ArraysExercise/ArrayModifier.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
