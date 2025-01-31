@@ -18,28 +18,25 @@ public class ArrayModifier {
             String command = input.split(" ")[0];
 
             if (command.equals("swap")){
+               int firstInput = Integer.parseInt(input.split( " ")[1]);
+               int secondInput = Integer.parseInt(input.split( " ")[2]);
+
+                int firstNumber = array[firstInput];
+                int secondNumber = array[secondInput];
+
+               array[firstInput] = secondNumber;
+               array[secondInput] = firstNumber;
+
+            }else if (command.equals("multiply")){
                 int firstInput = Integer.parseInt(input.split( " ")[1]);
                 int secondInput = Integer.parseInt(input.split( " ")[2]);
 
                 int firstNumber = array[firstInput];
                 int secondNumber = array[secondInput];
 
-                array[firstNumber] = secondNumber;
-                array[secondInput] = firstNumber;
+                array[firstInput] = secondNumber * firstNumber;
 
-            }
-            if (command.equals("multiply")){
-                int firstInput = Integer.parseInt(input.split( " ")[1]);
-                int secondInput = Integer.parseInt(input.split( " ")[2]);
-
-                int firstNumber = array[firstInput];
-                int secondNumber = array[secondInput];
-
-                array[firstNumber] = secondNumber * firstNumber;
-
-
-            }
-            if (command.equals("decrease")){
+            }else if (command.equals("decrease")){
                 for (int position = 0; position < array.length; position++) {
                     array[position]--;
                 }
@@ -47,6 +44,14 @@ public class ArrayModifier {
 
             input=scanner.nextLine();
         }
-        System.out.println();
+        for (int i = 0; i < array.length; i++) {
+
+            if (i<array.length-1){
+                System.out.print(array[i] + ", ");
+            }else {
+                System.out.print(array[i]);
+            }
+        }
+
     }
 }
