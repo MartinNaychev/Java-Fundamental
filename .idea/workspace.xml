@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Methods/Calculations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/SignOfIntegerNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/_PrintingTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/CalculateRectangleArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DataTypesAndVariables/ExactSumOfRealNumbers3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/DataTypesAndVariables/_BigDecimal_ExactSumOfRealNumbers3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +39,7 @@
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
     "Application.BeerKegs.executor": "Run",
+    "Application.CalculateRectangleArea.executor": "Run",
     "Application.Calculations.executor": "Run",
     "Application.CharsToString.executor": "Run",
     "Application.CommonElements.executor": "Run",
@@ -86,7 +81,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Repos/Java-Fundamental",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
