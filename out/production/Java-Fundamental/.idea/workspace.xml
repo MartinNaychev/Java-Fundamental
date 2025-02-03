@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Methods/SignOfIntegerNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/CalculateRectangleArea.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +39,9 @@
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
     "Application.BeerKegs.executor": "Run",
+    "Application.CalculateRectangleArea.executor": "Run",
+    "Application.Calculations.executor": "Run",
+    "Application.CharsToString.executor": "Run",
     "Application.CommonElements.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
@@ -48,11 +52,14 @@
     "Application.EqualSums.executor": "Debug",
     "Application.EvenAndOddSubtraction.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
+    "Application.Grades.executor": "Run",
     "Application.InteerOperations.executor": "Run",
     "Application.MagicSum.executor": "Run",
+    "Application.Orders.executor": "Run",
     "Application.PokeMon.executor": "Run",
     "Application.PrintNumbersInReverseOrder.executor": "Run",
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
+    "Application.PrintingTriangle.executor": "Run",
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.ReverseArrayOfStrings.executor": "Run",
     "Application.SignOfIntegerNumbers.executor": "Run",
@@ -74,7 +81,7 @@
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Repos/Java-Fundamental",
-    "settings.editor.selected.configurable": "preferences.updates"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
