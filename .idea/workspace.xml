@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Methods/GreaterOfTwoValues.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/MathOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Methods/MultiplyEvensByOdds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsExercise/SmallestOfThreeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Methods/MathPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/Methods/MathPower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +68,7 @@
     "Application.RepeatString.executor": "Run",
     "Application.ReverseArrayOfStrings.executor": "Run",
     "Application.SignOfIntegerNumbers.executor": "Run",
+    "Application.SmallestOfThreeNumbers.executor": "Run",
     "Application.Snowballs.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
     "Application.SpiceMustFlow.executor": "Run",
