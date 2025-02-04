@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Methods/RepeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/GreaterOfTwoValues.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/MathOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Methods/MultiplyEvensByOdds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Methods/MathPower.java" beforeDir="false" afterPath="$PROJECT_DIR$/Methods/MathPower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +57,12 @@
     "Application.EvenAndOddSubtraction.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
     "Application.Grades.executor": "Run",
+    "Application.GreaterOfTwoValues.executor": "Run",
     "Application.InteerOperations.executor": "Run",
     "Application.MagicSum.executor": "Run",
+    "Application.MathOperations.executor": "Run",
+    "Application.MathPower.executor": "Run",
+    "Application.MultiplyEvensByOdds.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PokeMon.executor": "Run",
     "Application.PrintNumbersInReverseOrder.executor": "Run",
@@ -157,6 +166,15 @@
           <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
           <option name="timeStamp" value="25" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/Methods/MultiplyEvensByOdds.java</url>
+          <line>13</line>
+          <properties class="Methods.MultiplyEvensByOdds" method="validateSum">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
