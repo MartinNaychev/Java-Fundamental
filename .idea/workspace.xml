@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MethodsExercise/AddAndSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodsExercise/MiddleCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsExercise/FactorialDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsExercise/NxNMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +55,7 @@
     "Application.EqualSums.executor": "Debug",
     "Application.EvenAndOddSubtraction.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
+    "Application.FactorialDivision.executor": "Run",
     "Application.Grades.executor": "Run",
     "Application.GreaterOfTwoValues.executor": "Run",
     "Application.InteerOperations.executor": "Run",
@@ -63,6 +64,7 @@
     "Application.MathPower.executor": "Run",
     "Application.MiddleCharacters.executor": "Run",
     "Application.MultiplyEvensByOdds.executor": "Run",
+    "Application.NxNMatrix.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
     "Application.PokeMon.executor": "Run",
@@ -160,6 +162,11 @@
           <url>file://$PROJECT_DIR$/ArraysExercise/MagicSum.java</url>
           <line>15</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MethodsExercise/FactorialDivision.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
