@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MethodsExercise/CharactersInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodsExercise/PasswordValidator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodsExercise/VowelsCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsExercise/AddAndSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsExercise/MiddleCharacters.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,6 +37,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AddAndSubtract.executor": "Run",
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
     "Application.BeerKegs.executor": "Run",
@@ -61,6 +61,7 @@
     "Application.MagicSum.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
+    "Application.MiddleCharacters.executor": "Run",
     "Application.MultiplyEvensByOdds.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
