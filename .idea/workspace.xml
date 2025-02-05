@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="" />
+    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/MethodsExercise/PalindromeIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodsExercise/TopNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +67,7 @@
     "Application.MultiplyEvensByOdds.executor": "Run",
     "Application.NxNMatrix.executor": "Run",
     "Application.Orders.executor": "Run",
+    "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
     "Application.PokeMon.executor": "Run",
     "Application.PrintNumbersInReverseOrder.executor": "Run",
@@ -79,6 +85,7 @@
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOfChars.executor": "Run",
     "Application.TopIntegers.executor": "Run",
+    "Application.TopNumber.executor": "Run",
     "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
     "Application.VowelsCount.executor": "Run",
