@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="" />
+    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/List/GaussTrick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/ListManipulationBasics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/MergingLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -52,12 +58,15 @@
     "Application.EvenAndOddSubtraction.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
     "Application.FactorialDivision.executor": "Run",
+    "Application.GaussTrick.executor": "Run",
     "Application.Grades.executor": "Run",
     "Application.GreaterOfTwoValues.executor": "Run",
     "Application.InteerOperations.executor": "Run",
+    "Application.ListManipulationBasics.executor": "Run",
     "Application.MagicSum.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
+    "Application.MergingLists.executor": "Run",
     "Application.MiddleCharacters.executor": "Run",
     "Application.MultiplyEvensByOdds.executor": "Run",
     "Application.NxNMatrix.executor": "Run",
@@ -92,8 +101,8 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Repos/Java-Fundamental",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Fundamental Java",
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -160,6 +169,16 @@
           <url>file://$PROJECT_DIR$/ArraysExercise/MagicSum.java</url>
           <line>15</line>
           <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/ListManipulationBasics.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/GaussTrick.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
