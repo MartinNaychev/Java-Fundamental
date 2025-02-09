@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/List/GaussTrick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/ListManipulationBasics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/List/MergingLists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/ListManipulationAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/ListManipulationAdvanced.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +59,7 @@
     "Application.Grades.executor": "Run",
     "Application.GreaterOfTwoValues.executor": "Run",
     "Application.InteerOperations.executor": "Run",
+    "Application.ListManipulationAdvanced.executor": "Run",
     "Application.ListManipulationBasics.executor": "Run",
     "Application.MagicSum.executor": "Run",
     "Application.MathOperations.executor": "Run",
