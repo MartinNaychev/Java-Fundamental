@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/List/ListOfProducts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/RemoveNegativesAndReverse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
     "Application.PrintingTriangle.executor": "Run",
     "Application.RefactorSpecialNumbers.executor": "Run",
+    "Application.RemoveNegativesAndReverse.executor": "Run",
     "Application.RepeatString.executor": "Run",
     "Application.ReverseArrayOfStrings.executor": "Run",
     "Application.SignOfIntegerNumbers.executor": "Run",
