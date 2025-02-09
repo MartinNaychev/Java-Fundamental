@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MethodsExercise/PalindromeIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/ListManipulationBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,7 @@
     "Application.Grades.executor": "Run",
     "Application.GreaterOfTwoValues.executor": "Run",
     "Application.InteerOperations.executor": "Run",
+    "Application.ListManipulationBasics.executor": "Debug",
     "Application.MagicSum.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
@@ -82,6 +84,7 @@
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOfChars.executor": "Run",
     "Application.TopIntegers.executor": "Run",
+    "Application.TopNumber.executor": "Run",
     "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
     "Application.VowelsCount.executor": "Run",
@@ -93,8 +96,8 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Repos/Java-Fundamental",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Java"
+    "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Fundamental Java",
+    "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
