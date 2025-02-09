@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/List/ListOfProducts.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/ListManipulationAdvanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/List/ListManipulationAdvanced.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,7 @@
     "Application.InteerOperations.executor": "Run",
     "Application.ListManipulationAdvanced.executor": "Run",
     "Application.ListManipulationBasics.executor": "Run",
+    "Application.ListOfProducts.executor": "Run",
     "Application.MagicSum.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
@@ -177,6 +178,11 @@
           <url>file://$PROJECT_DIR$/List/GaussTrick.java</url>
           <line>16</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/ListOfProducts.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
