@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ListExercise/ChangeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListExercise/HouseParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListExercise/ListOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListExercise/Train.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListExercise/BombNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListExercise/BombNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +40,7 @@
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
     "Application.BeerKegs.executor": "Run",
+    "Application.BombNumbers.executor": "Run",
     "Application.CalculateRectangleArea.executor": "Run",
     "Application.Calculations.executor": "Run",
     "Application.ChangeList.executor": "Run",
@@ -68,7 +65,7 @@
     "Application.ListManipulationAdvanced.executor": "Run",
     "Application.ListManipulationBasics.executor": "Run",
     "Application.ListOfProducts.executor": "Run",
-    "Application.ListOperations.executor": "Debug",
+    "Application.ListOperations.executor": "Run",
     "Application.MagicSum.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
@@ -103,6 +100,7 @@
     "Application.WaterOverflow.executor": "Run",
     "Application.ZigZag.executor": "Run",
     "Application.ZigZagArrays.executor": "Run",
+    "Application.demo.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -211,6 +209,11 @@
           <url>file://$PROJECT_DIR$/ListExercise/HouseParty.java</url>
           <line>16</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ListExercise/ListOperations.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
