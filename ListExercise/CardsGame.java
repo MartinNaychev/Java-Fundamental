@@ -33,7 +33,7 @@ public class CardsGame {
         }
         if (!firstPlayerDec.isEmpty()) {
 
-            int sum = firstPlayerDec.stream().mapToInt(Integer::intValue).sum();
+            int sum = firstPlayerDec.stream().mapToInt(Integer::intValue).sum();   // това е ново за мен
             System.out.printf("First player wins! Sum: %d", sum);
 
         } else if (!secondPlayerDec.isEmpty()) {
@@ -41,6 +41,7 @@ public class CardsGame {
             int sum = secondPlayerDec.stream().mapToInt(Integer::intValue).sum();
             System.out.printf("Second player wins! Sum: %d", sum);
         }
+
 
 
     }
