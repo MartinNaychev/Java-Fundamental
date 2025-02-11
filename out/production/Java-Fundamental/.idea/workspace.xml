@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ListExercise/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListExercise/CardsGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +39,11 @@
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
     "Application.BeerKegs.executor": "Run",
+    "Application.BombNumbers.executor": "Run",
     "Application.CalculateRectangleArea.executor": "Run",
     "Application.Calculations.executor": "Run",
+    "Application.CardsGame.executor": "Debug",
+    "Application.ChangeList.executor": "Run",
     "Application.CharactersInRange.executor": "Run",
     "Application.CharsToString.executor": "Run",
     "Application.CommonElements.executor": "Run",
@@ -57,10 +60,12 @@
     "Application.GaussTrick.executor": "Run",
     "Application.Grades.executor": "Run",
     "Application.GreaterOfTwoValues.executor": "Run",
+    "Application.HouseParty.executor": "Run",
     "Application.InteerOperations.executor": "Run",
     "Application.ListManipulationAdvanced.executor": "Run",
     "Application.ListManipulationBasics.executor": "Run",
     "Application.ListOfProducts.executor": "Run",
+    "Application.ListOperations.executor": "Run",
     "Application.MagicSum.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
@@ -76,7 +81,7 @@
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
     "Application.PrintingTriangle.executor": "Run",
     "Application.RefactorSpecialNumbers.executor": "Run",
-    "Application.RemoveNegativesAndReverse.executor": "Run",
+    "Application.RemoveNegativesAndReverse.executor": "Debug",
     "Application.RepeatString.executor": "Run",
     "Application.ReverseArrayOfStrings.executor": "Run",
     "Application.SignOfIntegerNumbers.executor": "Run",
@@ -89,12 +94,13 @@
     "Application.SumOfChars.executor": "Run",
     "Application.TopIntegers.executor": "Run",
     "Application.TopNumber.executor": "Run",
-    "Application.Train.executor": "Debug",
+    "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
     "Application.VowelsCount.executor": "Run",
     "Application.WaterOverflow.executor": "Run",
     "Application.ZigZag.executor": "Run",
     "Application.ZigZagArrays.executor": "Run",
+    "Application.demo.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -188,6 +194,31 @@
           <url>file://$PROJECT_DIR$/ListExercise/Train.java</url>
           <line>18</line>
           <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ListExercise/ChangeList.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/List/RemoveNegativesAndReverse.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ListExercise/HouseParty.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ListExercise/ListOperations.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ListExercise/CardsGame.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
