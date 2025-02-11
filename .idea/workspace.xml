@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ListExercise/AnonymousThreat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListExercise/AppendArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ListExercise/CardsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListExercise/PokemonDontGo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListExercise/CardsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/ListExercise/CardsGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +38,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddAndSubtract.executor": "Run",
-    "Application.AnonymousThreat.executor": "Run",
+    "Application.AnonymousThreat.executor": "Debug",
     "Application.AppendArrays.executor": "Debug",
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
@@ -83,6 +81,7 @@
     "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
     "Application.PokeMon.executor": "Run",
+    "Application.PokemonDontGo.executor": "Run",
     "Application.PrintNumbersInReverseOrder.executor": "Run",
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
     "Application.PrintingTriangle.executor": "Run",
@@ -116,7 +115,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.AnonymousThreat">
+  <component name="RunManager" selected="Application.PokemonDontGo">
     <configuration name="AnonymousThreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListExercise.AnonymousThreat" />
       <module name="Java-Fundamental" />
@@ -156,8 +155,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PokemonDontGo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ListExercise.PokemonDontGo" />
+      <module name="Java-Fundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ListExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PokemonDontGo" />
         <item itemvalue="Application.AnonymousThreat" />
         <item itemvalue="Application.AppendArrays" />
         <item itemvalue="Application.CardsGame" />
