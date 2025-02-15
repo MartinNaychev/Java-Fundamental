@@ -36,7 +36,7 @@ public class ShoppingList {
             input = scanner.nextLine();
         }
 
-        System.out.println(groceriesList.toString().replaceAll("[\\[\\]]", ""));
+        System.out.println(groceriesList.toString().replaceAll("[\\[\\],]", ""));
 
     }
 }
