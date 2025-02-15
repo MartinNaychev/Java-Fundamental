@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExamPreparation/CounterStrike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparation/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExamPreparation/ShoppingList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamPreparation/ComputerStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamPreparation/MovingTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamPreparation/MuOnline.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamPreparation/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExamPreparation/ShoppingList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +54,7 @@
     "Application.CharactersInRange.executor": "Run",
     "Application.CharsToString.executor": "Run",
     "Application.CommonElements.executor": "Run",
+    "Application.ComputerStore.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
     "Application.CounterStrike.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
@@ -79,6 +81,8 @@
     "Application.MathPower.executor": "Run",
     "Application.MergingLists.executor": "Run",
     "Application.MiddleCharacters.executor": "Run",
+    "Application.MovingTarget.executor": "Run",
+    "Application.MuOnline.executor": "Debug",
     "Application.MultiplyEvensByOdds.executor": "Run",
     "Application.NxNMatrix.executor": "Run",
     "Application.Orders.executor": "Run",
@@ -121,7 +125,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Inventory">
+  <component name="RunManager" selected="Application.MovingTarget">
     <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ExamPreparation.CounterStrike" />
       <module name="Java-Fundamental" />
@@ -148,12 +152,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PokemonDontGo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListExercise.PokemonDontGo" />
+    <configuration name="MovingTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.MovingTarget" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListExercise.*" />
+          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MuOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.MuOnline" />
+      <module name="Java-Fundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,26 +191,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftUniCoursePlanning" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListExercise.SoftUniCoursePlanning" />
-      <module name="Java-Fundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MovingTarget" />
+        <item itemvalue="Application.MuOnline" />
         <item itemvalue="Application.Inventory" />
         <item itemvalue="Application.ShoppingList" />
         <item itemvalue="Application.CounterStrike" />
-        <item itemvalue="Application.SoftUniCoursePlanning" />
-        <item itemvalue="Application.PokemonDontGo" />
       </list>
     </recent_temporary>
   </component>
@@ -316,6 +320,16 @@
           <url>file://$PROJECT_DIR$/ExamPreparation/CounterStrike.java</url>
           <line>14</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExamPreparation/MuOnline.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExamPreparation/MovingTarget.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="51" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
