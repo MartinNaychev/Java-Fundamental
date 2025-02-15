@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ExamPreparation/CounterStrike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ExamPreparation/ComputerStore.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExamPreparation/ShoppingList.java" beforeDir="false" afterPath="$PROJECT_DIR$/ExamPreparation/ShoppingList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +52,7 @@
     &quot;Application.CharsToString.executor&quot;: &quot;Run&quot;,
     &quot;Application.CommonElements.executor&quot;: &quot;Run&quot;,
     &quot;Application.CondenseArrayToNumber.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CounterStrike.executor&quot;: &quot;Run&quot;,
     &quot;Application.DataTypeFinder.executor&quot;: &quot;Run&quot;,
     &quot;Application.DayOfWeek.executor&quot;: &quot;Run&quot;,
     &quot;Application.Demo.executor&quot;: &quot;Debug&quot;,
@@ -65,6 +67,7 @@
     &quot;Application.GreaterOfTwoValues.executor&quot;: &quot;Run&quot;,
     &quot;Application.HouseParty.executor&quot;: &quot;Run&quot;,
     &quot;Application.InteerOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Inventory.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListManipulationAdvanced.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListManipulationBasics.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListOfProducts.executor&quot;: &quot;Run&quot;,
@@ -88,10 +91,11 @@
     &quot;Application.RemoveNegativesAndReverse.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RepeatString.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseArrayOfStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ShoppingList.executor&quot;: &quot;Run&quot;,
     &quot;Application.SignOfIntegerNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.SmallestOfThreeNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.Snowballs.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SoftUniCoursePlanning.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SoftUniCoursePlanning.executor&quot;: &quot;Debug&quot;,
     &quot;Application.SpecialNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.SpiceMustFlow.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumDigits.executor&quot;: &quot;Run&quot;,
@@ -115,13 +119,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.SoftUniCoursePlanning">
-    <configuration name="AnonymousThreat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListExercise.AnonymousThreat" />
+  <component name="RunManager" selected="Application.Inventory">
+    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.CounterStrike" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListExercise.*" />
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,25 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppendArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListExercise.AppendArrays" />
+    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ListExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ListExercise.CardsGame" />
-      <module name="Java-Fundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ListExercise.*" />
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,6 +152,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ListExercise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ShoppingList" />
+      <module name="Java-Fundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -183,11 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Inventory" />
+        <item itemvalue="Application.ShoppingList" />
+        <item itemvalue="Application.CounterStrike" />
         <item itemvalue="Application.SoftUniCoursePlanning" />
         <item itemvalue="Application.PokemonDontGo" />
-        <item itemvalue="Application.AnonymousThreat" />
-        <item itemvalue="Application.AppendArrays" />
-        <item itemvalue="Application.CardsGame" />
       </list>
     </recent_temporary>
   </component>
@@ -305,6 +309,11 @@
           <url>file://$PROJECT_DIR$/ListExercise/SoftUniCoursePlanning.java</url>
           <line>15</line>
           <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ExamPreparation/CounterStrike.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
