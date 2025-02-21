@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MidExam/TheBiscuitFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "Application.ChangeList.executor": "Run",
     "Application.CharactersInRange.executor": "Run",
     "Application.CharsToString.executor": "Run",
+    "Application.CoffeeLover.executor": "Run",
     "Application.CommonElements.executor": "Run",
     "Application.ComputerStore.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
@@ -89,6 +89,7 @@
     "Application.PrintNumbersInReverseOrder.executor": "Run",
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
     "Application.PrintingTriangle.executor": "Run",
+    "Application.RandomizeWords.executor": "Debug",
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.RemoveNegativesAndReverse.executor": "Debug",
     "Application.RepeatString.executor": "Run",
@@ -103,6 +104,7 @@
     "Application.SumDigits.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOfChars.executor": "Run",
+    "Application.TheAngryCat.executor": "Debug",
     "Application.TheBiscuitFactory.executor": "Run",
     "Application.TopIntegers.executor": "Run",
     "Application.TopNumber.executor": "Run",
@@ -327,6 +329,21 @@
           <url>file://$PROJECT_DIR$/ExamPreparation/MovingTarget.java</url>
           <line>16</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MidExam/CoffeeLover.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/MidExam/TheAngryCat.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
