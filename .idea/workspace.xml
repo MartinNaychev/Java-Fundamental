@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/BigFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Songs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Songs/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/SumBigNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Students/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Students/Student.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,8 +129,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.CounterStrike" />
+    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
@@ -147,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.Students.Main" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="ObjectsAndClasses.Students.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -201,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovingTarget" />
         <item itemvalue="Application.MuOnline" />
         <item itemvalue="Application.Inventory" />
         <item itemvalue="Application.ShoppingList" />
-        <item itemvalue="Application.CounterStrike" />
       </list>
     </recent_temporary>
   </component>
