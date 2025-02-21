@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/MidExam/CoffeeLover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MidExam/TheAngryCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MidExam/TheBiscuitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/BigFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Songs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Songs/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/SumBigNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -45,6 +47,7 @@
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
     "Application.BeerKegs.executor": "Run",
+    "Application.BigFactorial.executor": "Run",
     "Application.BombNumbers.executor": "Run",
     "Application.CalculateRectangleArea.executor": "Run",
     "Application.Calculations.executor": "Run",
@@ -77,6 +80,7 @@
     "Application.ListOfProducts.executor": "Run",
     "Application.ListOperations.executor": "Run",
     "Application.MagicSum.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
     "Application.MergingLists.executor": "Run",
@@ -93,6 +97,7 @@
     "Application.PrintNumbersInReverseOrder.executor": "Run",
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
     "Application.PrintingTriangle.executor": "Run",
+    "Application.RandomizeWords.executor": "Run",
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.RemoveNegativesAndReverse.executor": "Debug",
     "Application.RepeatString.executor": "Run",
@@ -104,6 +109,7 @@
     "Application.SoftUniCoursePlanning.executor": "Debug",
     "Application.SpecialNumbers.executor": "Run",
     "Application.SpiceMustFlow.executor": "Run",
+    "Application.SumBigNumbers.executor": "Run",
     "Application.SumDigits.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOfChars.executor": "Run",
@@ -342,6 +348,11 @@
           <url>file://$PROJECT_DIR$/MidExam/TheAngryCat.java</url>
           <line>20</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="57" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
