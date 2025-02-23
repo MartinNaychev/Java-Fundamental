@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Students/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/Student2/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +83,7 @@
     "Application.MuOnline.executor": "Debug",
     "Application.MultiplyEvensByOdds.executor": "Run",
     "Application.NxNMatrix.executor": "Run",
+    "Application.ObjectsAndClasses.Student2.Main.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
@@ -349,6 +349,11 @@
           <line>13</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/Students/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
           <option name="timeStamp" value="13" />
@@ -365,6 +370,12 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/Students/Student.java</url>
+          <line>4</line>
+          <properties field="firstName" class="ObjectsAndClasses.Students.Student" />
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
