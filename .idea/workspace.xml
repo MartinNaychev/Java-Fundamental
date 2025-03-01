@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/Articles/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/Articles/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/OpinionPoll/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/OpinionPoll/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +87,7 @@
     "Application.NxNMatrix.executor": "Run",
     "Application.ObjectsAndClasses.Student2.Main.executor": "Run",
     "Application.ObjectsAndClassesExercise.Articles.Main.executor": "Run",
+    "Application.ObjectsAndClassesExercise.OpinionPoll.Main.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
