@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/Students/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/Students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/VehicleCatalogue/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/VehicleCatalogue/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -90,6 +90,7 @@
     "Application.ObjectsAndClassesExercise.Articles.Main.executor": "Run",
     "Application.ObjectsAndClassesExercise.OpinionPoll.Main.executor": "Run",
     "Application.ObjectsAndClassesExercise.Students.Main.executor": "Run",
+    "Application.ObjectsAndClassesExercise.VehicleCatalogue.Main.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
@@ -187,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ShoppingList" />
+    <configuration name="ObjectsAndClassesExercise.VehicleCatalogue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.VehicleCatalogue.Main" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="ObjectsAndClassesExercise.VehicleCatalogue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -202,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovingTarget" />
         <item itemvalue="Application.MuOnline" />
         <item itemvalue="Application.Inventory" />
-        <item itemvalue="Application.ShoppingList" />
       </list>
     </recent_temporary>
   </component>
@@ -379,6 +380,16 @@
           <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/Students/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/VehicleCatalogue/Main.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/VehicleCatalogue/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
