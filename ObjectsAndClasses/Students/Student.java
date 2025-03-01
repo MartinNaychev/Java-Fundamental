@@ -14,6 +14,22 @@ public class Student {
         this.hometown = hometown;
     }
 
+    public void setFirstName(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public void setLastName(String lastName) {
+        this.lastName = lastName;
+    }
+
+    public void setAge(int age) {
+        this.age = age;
+    }
+
+    public void setHometown(String hometown) {
+        this.hometown = hometown;
+    }
+
     public String getFirstName() {
         return firstName;
     }
