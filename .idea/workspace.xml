@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/Student2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectsAndClasses/Student2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ObjectsAndClasses/Students/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/ObjectsAndClasses/Students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/AdvertisementMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/Message.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AddAndSubtract.executor": "Run",
+    "Application.AdvertisementMessage.executor": "Run",
     "Application.AnonymousThreat.executor": "Debug",
     "Application.AppendArrays.executor": "Debug",
     "Application.ArrayModifier.executor": "Debug",
