@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/OrderByAge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClassesExercise/OrderByAge/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/CountRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/OddOccurrences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/WordFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArrays/WordSynonyms.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +58,7 @@
     "Application.CommonElements.executor": "Run",
     "Application.ComputerStore.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
+    "Application.CountRealNumbers.executor": "Run",
     "Application.CounterStrike.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
     "Application.DayOfWeek.executor": "Run",
@@ -91,6 +95,7 @@
     "Application.ObjectsAndClassesExercise.OrderByAge.Main.executor": "Run",
     "Application.ObjectsAndClassesExercise.Students.Main.executor": "Run",
     "Application.ObjectsAndClassesExercise.VehicleCatalogue.Main.executor": "Run",
+    "Application.OddOccurrences.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
@@ -123,6 +128,8 @@
     "Application.TriplesOfLatinLetters.executor": "Run",
     "Application.VowelsCount.executor": "Run",
     "Application.WaterOverflow.executor": "Run",
+    "Application.WordFilter.executor": "Run",
+    "Application.WordSynonyms.executor": "Run",
     "Application.ZigZag.executor": "Run",
     "Application.ZigZagArrays.executor": "Run",
     "Application.demo.executor": "Debug",
