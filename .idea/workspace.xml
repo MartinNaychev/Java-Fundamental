@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/LegendaryFarming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/SoftUniParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/StudentAcademy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/CompanyUsers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,6 +54,7 @@
     "Application.CharsToString.executor": "Run",
     "Application.CoffeeLover.executor": "Run",
     "Application.CommonElements.executor": "Run",
+    "Application.CompanyUsers.executor": "Debug",
     "Application.ComputerStore.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
     "Application.CountCharsInAString.executor": "Run",
@@ -406,9 +403,9 @@
           <option name="timeStamp" value="65" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/AssociativeArraysExercise/LegendaryFarming.java</url>
-          <line>15</line>
-          <option name="timeStamp" value="66" />
+          <url>file://$PROJECT_DIR$/AssociativeArraysExercise/CompanyUsers.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
