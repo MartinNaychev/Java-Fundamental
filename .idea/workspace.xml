@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/AMinerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/CountCharsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/LegendaryFarming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/SoftUniParking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/StudentAcademy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +63,7 @@
     "Application.CountCharsInAString.executor": "Run",
     "Application.CountRealNumbers.executor": "Run",
     "Application.CounterStrike.executor": "Run",
+    "Application.Courses.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
     "Application.DayOfWeek.executor": "Run",
     "Application.Demo.executor": "Debug",
@@ -76,6 +79,7 @@
     "Application.HouseParty.executor": "Run",
     "Application.InteerOperations.executor": "Run",
     "Application.Inventory.executor": "Run",
+    "Application.LegendaryFarming.executor": "Run",
     "Application.ListManipulationAdvanced.executor": "Run",
     "Application.ListManipulationBasics.executor": "Run",
     "Application.ListOfProducts.executor": "Run",
@@ -115,8 +119,10 @@
     "Application.SmallestOfThreeNumbers.executor": "Run",
     "Application.Snowballs.executor": "Run",
     "Application.SoftUniCoursePlanning.executor": "Debug",
+    "Application.SoftUniParking.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
     "Application.SpiceMustFlow.executor": "Run",
+    "Application.StudentAcademy.executor": "Run",
     "Application.SumBigNumbers.executor": "Run",
     "Application.SumDigits.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
@@ -144,12 +150,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
+    <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArraysExercise.LegendaryFarming" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="AssociativeArraysExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -211,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovingTarget" />
         <item itemvalue="Application.MuOnline" />
-        <item itemvalue="Application.Inventory" />
       </list>
     </recent_temporary>
   </component>
@@ -398,6 +404,11 @@
           <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/VehicleCatalogue/Main.java</url>
           <line>32</line>
           <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/AssociativeArraysExercise/LegendaryFarming.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="66" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
