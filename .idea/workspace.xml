@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AssociativeArrays/CountRealNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArrays/OddOccurrences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArrays/WordFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArrays/WordSynonyms.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/AMinerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/CountCharsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/Orders.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +38,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AMinerTask.executor": "Run",
     "Application.AddAndSubtract.executor": "Run",
     "Application.AdvertisementMessage.executor": "Run",
     "Application.AnonymousThreat.executor": "Debug",
@@ -58,6 +58,7 @@
     "Application.CommonElements.executor": "Run",
     "Application.ComputerStore.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
+    "Application.CountCharsInAString.executor": "Run",
     "Application.CountRealNumbers.executor": "Run",
     "Application.CounterStrike.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
