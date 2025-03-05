@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/SoftUniParking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +37,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AMinerTask.executor": "Run",
     "Application.AddAndSubtract.executor": "Run",
+    "Application.AdvertisementMessage.executor": "Run",
     "Application.AnonymousThreat.executor": "Debug",
     "Application.AppendArrays.executor": "Debug",
     "Application.ArrayModifier.executor": "Debug",
     "Application.ArrayRotation.executor": "Run",
     "Application.BeerKegs.executor": "Run",
+    "Application.BigFactorial.executor": "Run",
     "Application.BombNumbers.executor": "Run",
     "Application.CalculateRectangleArea.executor": "Run",
     "Application.Calculations.executor": "Run",
@@ -52,7 +57,10 @@
     "Application.CommonElements.executor": "Run",
     "Application.ComputerStore.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
+    "Application.CountCharsInAString.executor": "Run",
+    "Application.CountRealNumbers.executor": "Run",
     "Application.CounterStrike.executor": "Run",
+    "Application.Courses.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
     "Application.DayOfWeek.executor": "Run",
     "Application.Demo.executor": "Debug",
@@ -73,6 +81,7 @@
     "Application.ListOfProducts.executor": "Run",
     "Application.ListOperations.executor": "Run",
     "Application.MagicSum.executor": "Run",
+    "Application.Main.executor": "Run",
     "Application.MathOperations.executor": "Run",
     "Application.MathPower.executor": "Run",
     "Application.MergingLists.executor": "Run",
@@ -81,6 +90,13 @@
     "Application.MuOnline.executor": "Debug",
     "Application.MultiplyEvensByOdds.executor": "Run",
     "Application.NxNMatrix.executor": "Run",
+    "Application.ObjectsAndClasses.Student2.Main.executor": "Run",
+    "Application.ObjectsAndClassesExercise.Articles.Main.executor": "Run",
+    "Application.ObjectsAndClassesExercise.OpinionPoll.Main.executor": "Run",
+    "Application.ObjectsAndClassesExercise.OrderByAge.Main.executor": "Run",
+    "Application.ObjectsAndClassesExercise.Students.Main.executor": "Run",
+    "Application.ObjectsAndClassesExercise.VehicleCatalogue.Main.executor": "Run",
+    "Application.OddOccurrences.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
@@ -89,7 +105,7 @@
     "Application.PrintNumbersInReverseOrder.executor": "Run",
     "Application.PrintPartsOfTheASCIITable.executor": "Run",
     "Application.PrintingTriangle.executor": "Run",
-    "Application.RandomizeWords.executor": "Debug",
+    "Application.RandomizeWords.executor": "Run",
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.RemoveNegativesAndReverse.executor": "Debug",
     "Application.RepeatString.executor": "Run",
@@ -99,8 +115,10 @@
     "Application.SmallestOfThreeNumbers.executor": "Run",
     "Application.Snowballs.executor": "Run",
     "Application.SoftUniCoursePlanning.executor": "Debug",
+    "Application.SoftUniParking.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
     "Application.SpiceMustFlow.executor": "Run",
+    "Application.SumBigNumbers.executor": "Run",
     "Application.SumDigits.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
     "Application.SumOfChars.executor": "Run",
@@ -112,6 +130,8 @@
     "Application.TriplesOfLatinLetters.executor": "Run",
     "Application.VowelsCount.executor": "Run",
     "Application.WaterOverflow.executor": "Run",
+    "Application.WordFilter.executor": "Run",
+    "Application.WordSynonyms.executor": "Run",
     "Application.ZigZag.executor": "Run",
     "Application.ZigZagArrays.executor": "Run",
     "Application.demo.executor": "Debug",
@@ -125,8 +145,8 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.CounterStrike" />
+    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
@@ -138,12 +158,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.Students.Main" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="ObjectsAndClasses.Students.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -177,12 +197,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShoppingList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.ShoppingList" />
+    <configuration name="ObjectsAndClassesExercise.VehicleCatalogue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.VehicleCatalogue.Main" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="ObjectsAndClassesExercise.VehicleCatalogue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,11 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovingTarget" />
         <item itemvalue="Application.MuOnline" />
         <item itemvalue="Application.Inventory" />
-        <item itemvalue="Application.ShoppingList" />
-        <item itemvalue="Application.CounterStrike" />
       </list>
     </recent_temporary>
   </component>
@@ -342,8 +362,43 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/ObjectsAndClasses/RandomizeWords.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="56" />
+          <line>13</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/Students/Main.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/Student2/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/Articles/Main.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/Articles/Main.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/Students/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/VehicleCatalogue/Main.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ObjectsAndClassesExercise/VehicleCatalogue/Main.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="65" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
@@ -361,6 +416,12 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/ObjectsAndClasses/Students/Student.java</url>
+          <line>4</line>
+          <properties field="firstName" class="ObjectsAndClasses.Students.Student" />
+          <option name="timeStamp" value="59" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
