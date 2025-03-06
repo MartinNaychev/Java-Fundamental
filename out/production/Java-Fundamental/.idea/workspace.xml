@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AssociativeArraysExercise/SoftUniParking.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssociativeArraysExercise/ForceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/AssociativeArraysExercise/ForceBook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     "Application.CharsToString.executor": "Run",
     "Application.CoffeeLover.executor": "Run",
     "Application.CommonElements.executor": "Run",
+    "Application.CompanyUsers.executor": "Run",
     "Application.ComputerStore.executor": "Run",
     "Application.CondenseArrayToNumber.executor": "Run",
     "Application.CountCharsInAString.executor": "Run",
@@ -70,12 +70,14 @@
     "Application.EvenAndOddSubtraction.executor": "Run",
     "Application.ExactSumOfRealNumbers3_3.executor": "Run",
     "Application.FactorialDivision.executor": "Run",
+    "Application.ForceBook.executor": "Run",
     "Application.GaussTrick.executor": "Run",
     "Application.Grades.executor": "Run",
     "Application.GreaterOfTwoValues.executor": "Run",
     "Application.HouseParty.executor": "Run",
     "Application.InteerOperations.executor": "Run",
     "Application.Inventory.executor": "Run",
+    "Application.LegendaryFarming.executor": "Run",
     "Application.ListManipulationAdvanced.executor": "Run",
     "Application.ListManipulationBasics.executor": "Run",
     "Application.ListOfProducts.executor": "Run",
@@ -118,6 +120,7 @@
     "Application.SoftUniParking.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
     "Application.SpiceMustFlow.executor": "Run",
+    "Application.StudentAcademy.executor": "Run",
     "Application.SumBigNumbers.executor": "Run",
     "Application.SumDigits.executor": "Run",
     "Application.SumEvenNumbers.executor": "Run",
@@ -145,12 +148,12 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.Inventory" />
+    <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AssociativeArraysExercise.LegendaryFarming" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="AssociativeArraysExercise.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -212,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovingTarget" />
         <item itemvalue="Application.MuOnline" />
-        <item itemvalue="Application.Inventory" />
       </list>
     </recent_temporary>
   </component>
