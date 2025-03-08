@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/ReverseStrings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
     "Application.HouseParty.executor": "Run",
     "Application.InteerOperations.executor": "Run",
     "Application.Inventory.executor": "Run",
-    "Application.LegendaryFarming.executor": "Debug",
+    "Application.LegendaryFarming.executor": "Run",
     "Application.ListManipulationAdvanced.executor": "Run",
     "Application.ListManipulationBasics.executor": "Run",
     "Application.ListOfProducts.executor": "Run",
