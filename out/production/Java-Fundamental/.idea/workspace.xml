@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TextProcessing/ReverseStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessing/RepeatStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +111,9 @@
     "Application.RefactorSpecialNumbers.executor": "Run",
     "Application.RemoveNegativesAndReverse.executor": "Debug",
     "Application.RepeatString.executor": "Run",
+    "Application.RepeatStrings.executor": "Run",
     "Application.ReverseArrayOfStrings.executor": "Run",
+    "Application.ReverseStrings.executor": "Run",
     "Application.ShoppingList.executor": "Run",
     "Application.SignOfIntegerNumbers.executor": "Run",
     "Application.SmallestOfThreeNumbers.executor": "Run",
@@ -147,7 +150,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.LegendaryFarming">
+  <component name="RunManager">
     <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssociativeArraysExercise.LegendaryFarming" />
       <module name="Java-Fundamental" />
