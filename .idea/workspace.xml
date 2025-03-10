@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/TextProcessing/DigitsLettersAndOther.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/RepeatStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextProcessing/TextFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessingExercise/CharacterMultiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextProcessingExercise/ValidUsernames.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +51,7 @@
     "Application.Calculations.executor": "Run",
     "Application.CardsGame.executor": "Run",
     "Application.ChangeList.executor": "Run",
+    "Application.CharacterMultiplier.executor": "Run",
     "Application.CharactersInRange.executor": "Run",
     "Application.CharsToString.executor": "Run",
     "Application.CoffeeLover.executor": "Run",
@@ -141,6 +139,7 @@
     "Application.TopNumber.executor": "Run",
     "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
+    "Application.ValidUsernames.executor": "Run",
     "Application.VowelsCount.executor": "Run",
     "Application.WaterOverflow.executor": "Run",
     "Application.WordFilter.executor": "Run",
