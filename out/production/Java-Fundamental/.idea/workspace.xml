@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="" />
+    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextProcessingExercise/LettersChangeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessingExercise/LettersChangeNumbers.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +46,7 @@
     &quot;Application.BeerKegs.executor&quot;: &quot;Run&quot;,
     &quot;Application.BigFactorial.executor&quot;: &quot;Run&quot;,
     &quot;Application.BombNumbers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CaesarCipher.executor&quot;: &quot;Run&quot;,
     &quot;Application.CalculateRectangleArea.executor&quot;: &quot;Run&quot;,
     &quot;Application.Calculations.executor&quot;: &quot;Run&quot;,
     &quot;Application.CardsGame.executor&quot;: &quot;Run&quot;,
@@ -68,6 +72,7 @@
     &quot;Application.EqualSums.executor&quot;: &quot;Debug&quot;,
     &quot;Application.EvenAndOddSubtraction.executor&quot;: &quot;Run&quot;,
     &quot;Application.ExactSumOfRealNumbers3_3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExtractFile.executor&quot;: &quot;Run&quot;,
     &quot;Application.FactorialDivision.executor&quot;: &quot;Run&quot;,
     &quot;Application.ForceBook.executor&quot;: &quot;Run&quot;,
     &quot;Application.GaussTrick.executor&quot;: &quot;Run&quot;,
@@ -89,6 +94,7 @@
     &quot;Application.MiddleCharacters.executor&quot;: &quot;Run&quot;,
     &quot;Application.MovingTarget.executor&quot;: &quot;Run&quot;,
     &quot;Application.MuOnline.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.MultiplyBigNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.MultiplyEvensByOdds.executor&quot;: &quot;Run&quot;,
     &quot;Application.NxNMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.ObjectsAndClasses.Student2.Main.executor&quot;: &quot;Run&quot;,
@@ -111,6 +117,7 @@
     &quot;Application.RemoveNegativesAndReverse.executor&quot;: &quot;Debug&quot;,
     &quot;Application.RepeatString.executor&quot;: &quot;Run&quot;,
     &quot;Application.RepeatStrings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReplaceRepeatingChars.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseArrayOfStrings.executor&quot;: &quot;Run&quot;,
     &quot;Application.ReverseStrings.executor&quot;: &quot;Run&quot;,
     &quot;Application.ShoppingList.executor&quot;: &quot;Run&quot;,
@@ -122,6 +129,7 @@
     &quot;Application.SoftUniParking.executor&quot;: &quot;Run&quot;,
     &quot;Application.SpecialNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.SpiceMustFlow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.StringExplosion.executor&quot;: &quot;Run&quot;,
     &quot;Application.StudentAcademy.executor&quot;: &quot;Run&quot;,
     &quot;Application.Substring.executor&quot;: &quot;Run&quot;,
     &quot;Application.SumBigNumbers.executor&quot;: &quot;Run&quot;,
