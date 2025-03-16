@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchDates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchFullName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchPhoneNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TextProcessingExercise/LettersChangeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/TextProcessingExercise/LettersChangeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,12 +85,15 @@
     &quot;Application.InteerOperations.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inventory.executor&quot;: &quot;Run&quot;,
     &quot;Application.LegendaryFarming.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LettersChangeNumbers.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListManipulationAdvanced.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListManipulationBasics.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListOfProducts.executor&quot;: &quot;Run&quot;,
     &quot;Application.ListOperations.executor&quot;: &quot;Run&quot;,
     &quot;Application.MagicSum.executor&quot;: &quot;Run&quot;,
     &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatchFullName.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MatchPhoneNumber.executor&quot;: &quot;Run&quot;,
     &quot;Application.MathOperations.executor&quot;: &quot;Run&quot;,
     &quot;Application.MathPower.executor&quot;: &quot;Run&quot;,
     &quot;Application.MergingLists.executor&quot;: &quot;Run&quot;,
