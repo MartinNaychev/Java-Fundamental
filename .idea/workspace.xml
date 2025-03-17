@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchDates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchFullName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExpressions/MatchPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/SoftUniBarIncome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/StarEnigma.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RegularExpressionsExercise/StarEnigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegularExpressionsExercise/StarEnigma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,6 +135,7 @@
     "Application.SoftUniParking.executor": "Run",
     "Application.SpecialNumbers.executor": "Run",
     "Application.SpiceMustFlow.executor": "Run",
+    "Application.StarEnigma.executor": "Run",
     "Application.StringExplosion.executor": "Run",
     "Application.StudentAcademy.executor": "Run",
     "Application.Substring.executor": "Run",
@@ -430,7 +425,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/RegularExpressionsExercise/SoftUniBarIncome.java</url>
-          <line>15</line>
+          <line>16</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
