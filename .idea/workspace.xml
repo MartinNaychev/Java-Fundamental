@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/ExtractEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/ValidPassword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -152,6 +152,7 @@
     "Application.TopNumber.executor": "Run",
     "Application.Train.executor": "Run",
     "Application.TriplesOfLatinLetters.executor": "Run",
+    "Application.ValidPassword.executor": "Run",
     "Application.ValidUsernames.executor": "Run",
     "Application.VowelsCount.executor": "Run",
     "Application.WaterOverflow.executor": "Run",
@@ -429,6 +430,11 @@
           <url>file://$PROJECT_DIR$/RegularExpressionsExercise/SoftUniBarIncome.java</url>
           <line>16</line>
           <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/RegularExpressionsExercise/ValidPassword.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="67" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
