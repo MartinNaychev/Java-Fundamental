@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/RegularExpressionsExercise/NetherRealms.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RegularExpressionsExercise/StarEnigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/RegularExpressionsExercise/StarEnigma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,6 +101,7 @@
     "Application.MuOnline.executor": "Debug",
     "Application.MultiplyBigNumber.executor": "Run",
     "Application.MultiplyEvensByOdds.executor": "Run",
+    "Application.NetherRealms.executor": "Run",
     "Application.NxNMatrix.executor": "Run",
     "Application.ObjectsAndClasses.Student2.Main.executor": "Run",
     "Application.ObjectsAndClassesExercise.Articles.Main.executor": "Run",
