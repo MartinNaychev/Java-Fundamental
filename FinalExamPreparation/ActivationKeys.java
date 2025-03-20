@@ -10,7 +10,6 @@ public class ActivationKeys {
         String input = scanner.nextLine();
         StringBuilder key = new StringBuilder(enterKey);
 
-
         while (!input.equals("Generate")){
 
             if (input.contains("Contains")){
@@ -20,7 +19,6 @@ public class ActivationKeys {
                 }else {
                     System.out.println("Substring not found!");
                 }
-
                 
             } else if (input.contains("Flip")) {
                 String command = input.split(">>>")[1];
@@ -47,7 +45,6 @@ public class ActivationKeys {
                 System.out.println(key);
                 
             }
-
 
             input= scanner.nextLine();
         }
