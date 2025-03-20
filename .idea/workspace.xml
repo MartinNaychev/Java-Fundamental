@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="" />
+    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/ActivationKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,6 +37,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.AMinerTask.executor": "Run",
+    "Application.ActivationKeys.executor": "Run",
     "Application.AddAndSubtract.executor": "Run",
     "Application.AdvertisementMessage.executor": "Run",
     "Application.AnonymousThreat.executor": "Debug",
@@ -168,6 +172,19 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="ActivationKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.ActivationKeys" />
+      <module name="Java-Fundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalExamPreparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AssociativeArraysExercise.LegendaryFarming" />
       <module name="Java-Fundamental" />
@@ -207,19 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MuOnline" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.MuOnline" />
-      <module name="Java-Fundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ObjectsAndClassesExercise.VehicleCatalogue.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectsAndClassesExercise.VehicleCatalogue.Main" />
       <module name="Java-Fundamental" />
@@ -235,11 +239,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActivationKeys" />
         <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.MovingTarget" />
-        <item itemvalue="Application.MuOnline" />
       </list>
     </recent_temporary>
   </component>
@@ -429,9 +433,9 @@
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/RegularExpressionsExercise/ValidPassword.java</url>
-          <line>16</line>
-          <option name="timeStamp" value="67" />
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/ActivationKeys.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
