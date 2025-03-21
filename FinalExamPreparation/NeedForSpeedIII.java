@@ -81,7 +81,7 @@ public class NeedForSpeedIII {
                 }
 
             }
-            commands=scanner.nextLine();
+            commands = scanner.nextLine();
 
         }
 
@@ -91,7 +91,7 @@ public class NeedForSpeedIII {
             int fuel = entry.getValue().getLast();
 
 
-            System.out.printf("%s -> Mileage: %d kms, Fuel in the tank: %d lt.%n",car,mileage,fuel);
+            System.out.printf("%s -> Mileage: %d kms, Fuel in the tank: %d lt.%n", car, mileage, fuel);
         }
 
     }
