@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/FancyBarcodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/NeedForSpeedIII.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +76,7 @@
     "Application.ExtractEmails.executor": "Run",
     "Application.ExtractFile.executor": "Run",
     "Application.FactorialDivision.executor": "Run",
+    "Application.FancyBarcodes.executor": "Run",
     "Application.ForceBook.executor": "Run",
     "Application.Furniture.executor": "Run",
     "Application.GaussTrick.executor": "Run",
@@ -103,6 +104,7 @@
     "Application.MuOnline.executor": "Debug",
     "Application.MultiplyBigNumber.executor": "Run",
     "Application.MultiplyEvensByOdds.executor": "Run",
+    "Application.NeedForSpeedIII.executor": "Run",
     "Application.NetherRealms.executor": "Run",
     "Application.NxNMatrix.executor": "Run",
     "Application.ObjectsAndClasses.Student2.Main.executor": "Run",
@@ -171,7 +173,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.NeedForSpeedIII">
     <configuration name="ActivationKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.ActivationKeys" />
       <module name="Java-Fundamental" />
@@ -211,12 +213,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MovingTarget" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.MovingTarget" />
+    <configuration name="NeedForSpeedIII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.NeedForSpeedIII" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExamPreparation.*" />
+          <option name="PATTERN" value="FinalExamPreparation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -239,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NeedForSpeedIII" />
         <item itemvalue="Application.ActivationKeys" />
         <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MovingTarget" />
       </list>
     </recent_temporary>
   </component>
@@ -436,6 +438,16 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparation/ActivationKeys.java</url>
           <line>12</line>
           <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/NeedForSpeedIII.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/NeedForSpeedIII.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
