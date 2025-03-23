@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/EmojiDetector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/PasswordReset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/PlantDiscovery.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,6 +119,7 @@
     "Application.PalindromeIntegers.executor": "Run",
     "Application.PasswordReset.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
+    "Application.PlantDiscovery.executor": "Run",
     "Application.PokeMon.executor": "Run",
     "Application.PokemonDontGo.executor": "Run",
     "Application.PrintNumbersInReverseOrder.executor": "Run",
@@ -457,6 +456,11 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparation/PasswordReset.java</url>
           <line>26</line>
           <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/PlantDiscovery.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="77" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
