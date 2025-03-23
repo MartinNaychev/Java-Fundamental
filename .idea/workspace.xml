@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="" />
+    <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/EmojiDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/PasswordReset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +71,7 @@
     "Application.Demo.executor": "Debug",
     "Application.DigitsLettersAndOther.executor": "Run",
     "Application.Elevator.executor": "Run",
+    "Application.EmojiDetector.executor": "Run",
     "Application.EqualArrays.executor": "Run",
     "Application.EqualSums.executor": "Debug",
     "Application.EvenAndOddSubtraction.executor": "Run",
@@ -113,6 +119,7 @@
     "Application.OddOccurrences.executor": "Run",
     "Application.Orders.executor": "Run",
     "Application.PalindromeIntegers.executor": "Run",
+    "Application.PasswordReset.executor": "Run",
     "Application.PasswordValidator.executor": "Run",
     "Application.PokeMon.executor": "Run",
     "Application.PokemonDontGo.executor": "Run",
@@ -170,7 +177,7 @@
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.NeedForSpeedIII">
+  <component name="RunManager">
     <configuration name="ActivationKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.ActivationKeys" />
       <module name="Java-Fundamental" />
@@ -445,6 +452,11 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparation/NeedForSpeedIII.java</url>
           <line>30</line>
           <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/FinalExamPreparation/PasswordReset.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="73" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
