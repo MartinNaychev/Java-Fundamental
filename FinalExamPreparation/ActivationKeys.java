@@ -41,7 +41,7 @@ public class ActivationKeys {
                 int startIndex = Integer.parseInt(input.split(">>>")[1]);
                 int endIndex =Integer.parseInt(input.split(">>>")[2]);
                 String subString ="";
-               key=key.replace(startIndex,endIndex,subString);
+               key=key.replace(startIndex,endIndex, subString );
                 System.out.println(key);
                 
             }
