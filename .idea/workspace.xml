@@ -33,153 +33,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< Updated upstream
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.AMinerTask.executor": "Run",
-    "Application.ActivationKeys.executor": "Run",
-    "Application.AddAndSubtract.executor": "Run",
-    "Application.AdvertisementMessage.executor": "Run",
-    "Application.AnonymousThreat.executor": "Debug",
-    "Application.AppendArrays.executor": "Debug",
-    "Application.ArrayModifier.executor": "Debug",
-    "Application.ArrayRotation.executor": "Run",
-    "Application.BeerKegs.executor": "Run",
-    "Application.BigFactorial.executor": "Run",
-    "Application.BombNumbers.executor": "Run",
-    "Application.CaesarCipher.executor": "Run",
-    "Application.CalculateRectangleArea.executor": "Run",
-    "Application.Calculations.executor": "Run",
-    "Application.CardsGame.executor": "Run",
-    "Application.ChangeList.executor": "Run",
-    "Application.CharacterMultiplier.executor": "Run",
-    "Application.CharactersInRange.executor": "Run",
-    "Application.CharsToString.executor": "Run",
-    "Application.CoffeeLover.executor": "Run",
-    "Application.CommonElements.executor": "Run",
-    "Application.CompanyUsers.executor": "Run",
-    "Application.ComputerStore.executor": "Run",
-    "Application.CondenseArrayToNumber.executor": "Run",
-    "Application.CountCharsInAString.executor": "Run",
-    "Application.CountRealNumbers.executor": "Run",
-    "Application.CounterStrike.executor": "Run",
-    "Application.Courses.executor": "Run",
-    "Application.DataTypeFinder.executor": "Run",
-    "Application.DayOfWeek.executor": "Run",
-    "Application.Demo.executor": "Debug",
-    "Application.DigitsLettersAndOther.executor": "Run",
-    "Application.Elevator.executor": "Run",
-    "Application.EmojiDetector.executor": "Run",
-    "Application.EqualArrays.executor": "Run",
-    "Application.EqualSums.executor": "Debug",
-    "Application.EvenAndOddSubtraction.executor": "Run",
-    "Application.ExactSumOfRealNumbers3_3.executor": "Run",
-    "Application.ExtractEmails.executor": "Run",
-    "Application.ExtractFile.executor": "Run",
-    "Application.FactorialDivision.executor": "Run",
-    "Application.FancyBarcodes.executor": "Run",
-    "Application.ForceBook.executor": "Run",
-    "Application.Furniture.executor": "Run",
-    "Application.GaussTrick.executor": "Run",
-    "Application.Grades.executor": "Run",
-    "Application.GreaterOfTwoValues.executor": "Run",
-    "Application.HouseParty.executor": "Run",
-    "Application.InteerOperations.executor": "Run",
-    "Application.Inventory.executor": "Run",
-    "Application.LegendaryFarming.executor": "Run",
-    "Application.LettersChangeNumbers.executor": "Run",
-    "Application.ListManipulationAdvanced.executor": "Run",
-    "Application.ListManipulationBasics.executor": "Run",
-    "Application.ListOfProducts.executor": "Run",
-    "Application.ListOperations.executor": "Run",
-    "Application.MagicSum.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.MatchDates.executor": "Run",
-    "Application.MatchFullName.executor": "Run",
-    "Application.MatchPhoneNumber.executor": "Run",
-    "Application.MathOperations.executor": "Run",
-    "Application.MathPower.executor": "Run",
-    "Application.MergingLists.executor": "Run",
-    "Application.MiddleCharacters.executor": "Run",
-    "Application.MovingTarget.executor": "Run",
-    "Application.MuOnline.executor": "Debug",
-    "Application.MultiplyBigNumber.executor": "Run",
-    "Application.MultiplyEvensByOdds.executor": "Run",
-    "Application.NeedForSpeedIII.executor": "Run",
-    "Application.NetherRealms.executor": "Run",
-    "Application.NxNMatrix.executor": "Run",
-    "Application.ObjectsAndClasses.Student2.Main.executor": "Run",
-    "Application.ObjectsAndClassesExercise.Articles.Main.executor": "Run",
-    "Application.ObjectsAndClassesExercise.OpinionPoll.Main.executor": "Run",
-    "Application.ObjectsAndClassesExercise.OrderByAge.Main.executor": "Run",
-    "Application.ObjectsAndClassesExercise.Students.Main.executor": "Run",
-    "Application.ObjectsAndClassesExercise.VehicleCatalogue.Main.executor": "Run",
-    "Application.OddOccurrences.executor": "Run",
-    "Application.Orders.executor": "Run",
-    "Application.PalindromeIntegers.executor": "Run",
-    "Application.PasswordReset.executor": "Run",
-    "Application.PasswordValidator.executor": "Run",
-    "Application.PlantDiscovery.executor": "Run",
-    "Application.PokeMon.executor": "Run",
-    "Application.PokemonDontGo.executor": "Run",
-    "Application.PrintNumbersInReverseOrder.executor": "Run",
-    "Application.PrintPartsOfTheASCIITable.executor": "Run",
-    "Application.PrintingTriangle.executor": "Run",
-    "Application.RandomizeWords.executor": "Run",
-    "Application.RefactorSpecialNumbers.executor": "Run",
-    "Application.RemoveNegativesAndReverse.executor": "Debug",
-    "Application.RepeatString.executor": "Run",
-    "Application.RepeatStrings.executor": "Run",
-    "Application.ReplaceRepeatingChars.executor": "Run",
-    "Application.ReverseArrayOfStrings.executor": "Run",
-    "Application.ReverseStrings.executor": "Run",
-    "Application.ShoppingList.executor": "Run",
-    "Application.SignOfIntegerNumbers.executor": "Run",
-    "Application.SmallestOfThreeNumbers.executor": "Run",
-    "Application.Snowballs.executor": "Run",
-    "Application.SoftUniBarIncome.executor": "Run",
-    "Application.SoftUniCoursePlanning.executor": "Debug",
-    "Application.SoftUniExamResults.executor": "Run",
-    "Application.SoftUniParking.executor": "Run",
-    "Application.SpecialNumbers.executor": "Run",
-    "Application.SpiceMustFlow.executor": "Run",
-    "Application.StarEnigma.executor": "Run",
-    "Application.StringExplosion.executor": "Run",
-    "Application.StudentAcademy.executor": "Run",
-    "Application.Substring.executor": "Run",
-    "Application.SumBigNumbers.executor": "Run",
-    "Application.SumDigits.executor": "Run",
-    "Application.SumEvenNumbers.executor": "Run",
-    "Application.SumOfChars.executor": "Run",
-    "Application.TextFilter.executor": "Run",
-    "Application.TheAngryCat.executor": "Debug",
-    "Application.TheBiscuitFactory.executor": "Run",
-    "Application.TopIntegers.executor": "Run",
-    "Application.TopNumber.executor": "Run",
-    "Application.Train.executor": "Run",
-    "Application.TriplesOfLatinLetters.executor": "Run",
-    "Application.ValidPassword.executor": "Run",
-    "Application.ValidUsernames.executor": "Run",
-    "Application.VowelsCount.executor": "Run",
-    "Application.WaterOverflow.executor": "Run",
-    "Application.WordFilter.executor": "Run",
-    "Application.WordSynonyms.executor": "Run",
-    "Application.ZigZag.executor": "Run",
-    "Application.ZigZagArrays.executor": "Run",
-    "Application.demo.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/badjo/IdeaProjects/Fundamental Java",
-    "settings.editor.selected.configurable": "editing.templates"
-  }
-}]]></component>
-  <component name="RunManager">
-    <configuration name="ActivationKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.ActivationKeys" />
-=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.AddAndSubtract.executor&quot;: &quot;Run&quot;,
@@ -267,10 +120,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CounterStrike">
-    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.CounterStrike" />
->>>>>>> Stashed changes
+  <component name="RunManager" selected="Application.ActivationKeys">
+    <configuration name="ActivationKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.ActivationKeys" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
@@ -336,8 +188,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NeedForSpeedIII" />
         <item itemvalue="Application.ActivationKeys" />
+        <item itemvalue="Application.NeedForSpeedIII" />
         <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
         <item itemvalue="Application.Main" />
@@ -528,11 +380,6 @@
           <url>file://$PROJECT_DIR$/RegularExpressionsExercise/SoftUniBarIncome.java</url>
           <line>16</line>
           <option name="timeStamp" value="66" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FinalExamPreparation/ActivationKeys.java</url>
-          <line>12</line>
-          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/FinalExamPreparation/NeedForSpeedIII.java</url>
