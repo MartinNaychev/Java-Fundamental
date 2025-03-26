@@ -42,7 +42,7 @@ public class   PasswordReset {
                 StringBuilder newPassword = new StringBuilder(input);
 
                 if (input.contains(substring)) {
-                 input=input.replace(substring,replaceWith);
+                    input=input.replace(substring,replaceWith);
                     System.out.println(input);
                 }else {
                     System.out.println("Nothing to replace!");
