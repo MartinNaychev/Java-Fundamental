@@ -5,7 +5,7 @@ import java.util.LinkedHashMap;
 import java.util.List;
 import java.util.Scanner;
 
-public class NeedForSpeedIII {
+public class    NeedForSpeedIII {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         LinkedHashMap<String, List<Integer>> cars = new LinkedHashMap<>();
