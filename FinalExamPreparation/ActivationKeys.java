@@ -19,7 +19,7 @@ public class ActivationKeys {
                 }else {
                     System.out.println("Substring not found!");
                 }
-                
+
             } else if (input.contains("Flip")) {
                 String command = input.split(">>>")[1];
                 int startIndex = Integer.parseInt(input.split(">>>")[2]);
@@ -41,9 +41,9 @@ public class ActivationKeys {
                 int startIndex = Integer.parseInt(input.split(">>>")[1]);
                 int endIndex =Integer.parseInt(input.split(">>>")[2]);
                 String subString ="";
-               key=key.replace(startIndex,endIndex, subString );
+                key=key.replace(startIndex,endIndex, subString );
                 System.out.println(key);
-                
+
             }
 
             input= scanner.nextLine();
