@@ -5,9 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/DestinationMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/HeroesOfCodeAndLogicVII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FinalExamPreparation/Pirates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -409,11 +406,6 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparation/PlantDiscovery.java</url>
           <line>27</line>
           <option name="timeStamp" value="77" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FinalExamPreparation/Pirates.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="84" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
