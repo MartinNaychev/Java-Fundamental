@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FinalExam/DecryptingCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExam/EncryptingPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinalExam/HeroRecruitment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Java-Fundamental/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +59,11 @@
     "Application.CounterStrike.executor": "Run",
     "Application.DataTypeFinder.executor": "Run",
     "Application.DayOfWeek.executor": "Run",
+    "Application.DecryptingCommands.executor": "Run",
     "Application.Demo.executor": "Debug",
     "Application.DestinationMapper.executor": "Run",
     "Application.Elevator.executor": "Run",
+    "Application.EncryptingPassword.executor": "Run",
     "Application.EqualArrays.executor": "Run",
     "Application.EqualSums.executor": "Debug",
     "Application.EvenAndOddSubtraction.executor": "Run",
@@ -66,6 +72,7 @@
     "Application.GaussTrick.executor": "Run",
     "Application.Grades.executor": "Run",
     "Application.GreaterOfTwoValues.executor": "Run",
+    "Application.HeroRecruitment.executor": "Run",
     "Application.HeroesOfCodeAndLogicVII.executor": "Run",
     "Application.HouseParty.executor": "Run",
     "Application.InteerOperations.executor": "Run",
@@ -116,7 +123,7 @@
     "Application.WorldTour.executor": "Run",
     "Application.ZigZag.executor": "Run",
     "Application.ZigZagArrays.executor": "Run",
-    "Application.demo.executor": "Debug",
+    "Application.demo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -194,8 +201,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Pirates" />
         <item itemvalue="Application.ActivationKeys" />
+        <item itemvalue="Application.Pirates" />
         <item itemvalue="Application.NeedForSpeedIII" />
         <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
@@ -401,11 +408,6 @@
           <url>file://$PROJECT_DIR$/FinalExamPreparation/PasswordReset.java</url>
           <line>26</line>
           <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FinalExamPreparation/PlantDiscovery.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="77" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
