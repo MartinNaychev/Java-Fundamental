@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6839643-458a-49f0-8b09-5bca0b7c8016" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FinalExam/DecryptingCommands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,6 +36,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.ActivationKeys.executor&quot;: &quot;Debug&quot;,
     &quot;Application.AddAndSubtract.executor&quot;: &quot;Run&quot;,
     &quot;Application.AnonymousThreat.executor&quot;: &quot;Debug&quot;,
     &quot;Application.AppendArrays.executor&quot;: &quot;Debug&quot;,
@@ -55,6 +57,7 @@
     &quot;Application.DataTypeFinder.executor&quot;: &quot;Run&quot;,
     &quot;Application.DayOfWeek.executor&quot;: &quot;Run&quot;,
     &quot;Application.Demo.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.DestinationMapper.executor&quot;: &quot;Run&quot;,
     &quot;Application.Elevator.executor&quot;: &quot;Run&quot;,
     &quot;Application.EqualArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.EqualSums.executor&quot;: &quot;Debug&quot;,
@@ -64,6 +67,7 @@
     &quot;Application.GaussTrick.executor&quot;: &quot;Run&quot;,
     &quot;Application.Grades.executor&quot;: &quot;Run&quot;,
     &quot;Application.GreaterOfTwoValues.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HeroesOfCodeAndLogicVII.executor&quot;: &quot;Run&quot;,
     &quot;Application.HouseParty.executor&quot;: &quot;Run&quot;,
     &quot;Application.InteerOperations.executor&quot;: &quot;Run&quot;,
     &quot;Application.Inventory.executor&quot;: &quot;Run&quot;,
@@ -79,10 +83,12 @@
     &quot;Application.MovingTarget.executor&quot;: &quot;Run&quot;,
     &quot;Application.MuOnline.executor&quot;: &quot;Debug&quot;,
     &quot;Application.MultiplyEvensByOdds.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NeedForSpeedIII.executor&quot;: &quot;Run&quot;,
     &quot;Application.NxNMatrix.executor&quot;: &quot;Run&quot;,
     &quot;Application.Orders.executor&quot;: &quot;Run&quot;,
     &quot;Application.PalindromeIntegers.executor&quot;: &quot;Run&quot;,
     &quot;Application.PasswordValidator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pirates.executor&quot;: &quot;Run&quot;,
     &quot;Application.PokeMon.executor&quot;: &quot;Run&quot;,
     &quot;Application.PokemonDontGo.executor&quot;: &quot;Run&quot;,
     &quot;Application.PrintNumbersInReverseOrder.executor&quot;: &quot;Run&quot;,
@@ -108,6 +114,7 @@
     &quot;Application.TriplesOfLatinLetters.executor&quot;: &quot;Run&quot;,
     &quot;Application.VowelsCount.executor&quot;: &quot;Run&quot;,
     &quot;Application.WaterOverflow.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WorldTour.executor&quot;: &quot;Run&quot;,
     &quot;Application.ZigZag.executor&quot;: &quot;Run&quot;,
     &quot;Application.ZigZagArrays.executor&quot;: &quot;Run&quot;,
     &quot;Application.demo.executor&quot;: &quot;Debug&quot;,
@@ -120,9 +127,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CounterStrike">
-    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExamPreparation.CounterStrike" />
+  <component name="RunManager" selected="Application.ActivationKeys">
+    <configuration name="ActivationKeys" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.ActivationKeys" />
       <module name="Java-Fundamental" />
       <extension name="coverage">
         <pattern>
@@ -140,19 +147,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AssociativeArraysExercise.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ObjectsAndClasses.Students.Main" />
-      <module name="Java-Fundamental" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ObjectsAndClasses.Students.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +180,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Pirates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExamPreparation.Pirates" />
+      <module name="Java-Fundamental" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FinalExamPreparation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ActivationKeys" />
+        <item itemvalue="Application.Pirates" />
         <item itemvalue="Application.NeedForSpeedIII" />
         <item itemvalue="Application.LegendaryFarming" />
         <item itemvalue="Application.ObjectsAndClassesExercise.VehicleCatalogue.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -396,9 +404,9 @@
           <option name="timeStamp" value="73" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/FinalExamPreparation/PlantDiscovery.java</url>
-          <line>27</line>
-          <option name="timeStamp" value="77" />
+          <url>file://$PROJECT_DIR$/FinalExam/DecryptingCommands.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="78" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.NumberFormatException" package="java.lang" />
